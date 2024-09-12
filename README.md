@@ -1,7 +1,7 @@
-## Začínající datová analytička, Ing. arch.
+Začínající datová analytička, Ing. arch.
 
 ### Dovednosti
-### Python, SQL (MariaDB), PowerBI, Excel
+Python, SQL (MariaDB), PowerBI, Excel
 
 ## Zkušenosti
 
